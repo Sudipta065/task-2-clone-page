@@ -1,0 +1,8 @@
+.search {
+  cursor: pointer;
+}
+
+.map {
+  display: flex;
+  transform-origin: 0 0;
+}
